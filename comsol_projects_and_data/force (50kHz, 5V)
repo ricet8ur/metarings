@@ -1,0 +1,6 @@
+% Model:              force computing 3.mph
+% Version:            COMSOL 6.0.0.318
+% Date:               Dec 11 2022, 20:59
+% Table:              Table 12 - Surface Integration 1
+% freq (kHz)             Maxwell upward surface stress tensor, x component (N)Maxwell upward surface stress tensor, y component (N)Maxwell upward surface stress tensor, z component (N)Maxwell upward electric surface stress tensor, x component (N)Maxwell upward electric surface stress tensor, y component (N)Maxwell upward electric surface stress tensor, z component (N)Maxwell upward magnetic surface stress tensor, x component (N)Maxwell upward magnetic surface stress tensor, y component (N)Maxwell upward magnetic surface stress tensor, z component (N)
+50                       -1.95467598461628E-8     6.73723741588631E-8      3.331949922593192E-5     3.619864714479633E-9     5.1102670079539775E-9    -6.293867717807125E-7    -2.3166624560644624E-8   6.226210715090855E-8     3.394888599771256E-5
